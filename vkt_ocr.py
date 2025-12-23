@@ -13,7 +13,7 @@ st.set_page_config(page_title="VKT OCR Pro", layout="wide")
 # Thông tin liên hệ mặc định
 CONTACT_INFO = {
     "hotline": "0978048348",
-    "email": "tien048348@gmail.com",
+    "email": "thongoc3978@gmail.com",
     "system_name": "VKT SYSTEM: CHUYỂN ĐỔI CHỮ VIẾT TAY SANG EXCEL"
 }
 
